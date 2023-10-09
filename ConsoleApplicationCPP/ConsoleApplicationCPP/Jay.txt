@@ -1,0 +1,6 @@
+Name: Miley
+Surname: Hyira
+Age: 18
+Email: miley@gmail.com
+Avarage: 0
+Group: 

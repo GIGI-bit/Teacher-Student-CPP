@@ -1,0 +1,10 @@
+Name: Ceyhun
+Age: 18
+Speciality: IT
+Text: Empty1
+
+Name: Sebine
+Age: 17
+Speciality: Designer
+Text: Empty2
+

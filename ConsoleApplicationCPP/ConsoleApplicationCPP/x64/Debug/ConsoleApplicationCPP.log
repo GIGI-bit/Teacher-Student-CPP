@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\ConsoleApplicationCPP\Teacher.h(9,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\ConsoleApplicationCPP\main.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplicationCPP.vcxproj -> C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\x64\Debug\ConsoleApplicationCPP.exe
